@@ -1,15 +1,17 @@
-<!-- ### Hi there 👋 -->
+# Hi 👋
 
-<!--
+### About
 
-Here are some ideas to get you started:
+- 💻 SRE / DevOps Engineer
+- 🧡 Open-source lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- Languages: _Python, Bash,_
+- Frameworks: _Django, Flask_
+- Storages: _PostgreSQL, Redis_
+
+### Contacts 📬
+
+- Site: [lixeiden.ru](lixeiden.ru)
+- Linkedin: [lixeiden](https://linkedin.com/in/lixeiden)
