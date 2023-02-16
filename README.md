@@ -13,5 +13,5 @@
 
 ### Contacts 📬
 
-- Site: [lixeiden.ru](lixeiden.ru)
-- Linkedin: [lixeiden](https://linkedin.com/in/lixeiden)
+- Site: [lixeiden.ru](http://lixeiden.ru)
+- LinkedIn: [lixeiden](https://linkedin.com/in/lixeiden)
