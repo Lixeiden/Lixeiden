@@ -7,7 +7,7 @@
 
 ### Skills
 
-- Languages: _Python, Bash,_
+- Languages: _Python, Bash_
 - Frameworks: _Django, Flask_
 - Storages: _PostgreSQL, Redis_
 
