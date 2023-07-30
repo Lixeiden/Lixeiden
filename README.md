@@ -8,7 +8,7 @@
 ### Skills
 
 - Languages: _Python, Bash, Go_
-- Frameworks: _Django, Flask_
+- Frameworks: _Django, Flask, Gin_
 - Storages: _PostgreSQL, Redis_
 - Containerization: Docker, Docker Compose
 
