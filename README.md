@@ -10,6 +10,7 @@
 - Languages: _Python, Bash, Go_
 - Frameworks: _Django, Flask, Gin_
 - Storages: _PostgreSQL, Redis_
+- CM: _Ansible_
 - Containerization: Docker, Docker Compose
 
 ### Contacts 📬
