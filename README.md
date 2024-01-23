@@ -2,8 +2,8 @@
 
 ### About
 
-- 💻 SRE / DevOps Engineer
-- 🧡 Open-source lover
+- 👨‍💻 DevOps/SRE Engineer
+- 🧡 Open-source enthusiast
 
 ### Skills
 
@@ -11,7 +11,7 @@
 - Frameworks: _Django, Flask, Gin_
 - Storages: _PostgreSQL, Redis_
 - CM: _Ansible_
-- Containerization: Docker, Docker Compose
+- Containerization: Kubernetes, Docker, Docker Compose
 
 ### Contacts 📬
 
