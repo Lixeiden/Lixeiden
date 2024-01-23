@@ -11,7 +11,7 @@
 - Frameworks: _Django, Flask, Gin_
 - Storages: _PostgreSQL, Redis_
 - CM: _Ansible_
-- Containerization: Kubernetes, Docker, Docker Compose
+- Containerization: _Kubernetes, Docker, Docker Compose_
 
 ### Contacts 📬
 
